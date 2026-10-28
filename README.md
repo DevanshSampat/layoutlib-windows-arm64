@@ -1,4 +1,4 @@
-# Android Studio Layoutlib for Windows on ARM64 (Snapdragon X Elite)
+# Android Studio Layoutlib for Windows on ARM64
 
 Native Windows ARM64 (`aarch64-w64-windows-gnu`, PE32+ `0xAA64`) build of **`libandroid_runtime.dll`** and **`layoutlib_jni.dll`** from the Android Open Source Project (AOSP `android17-release`).
 
